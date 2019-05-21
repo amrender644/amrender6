@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474740360982",
+    "firebase_url": "https://sikhshavavestha.firebaseio.com",
+    "project_id": "sikhshavavestha",
+    "storage_bucket": "sikhshavavestha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474740360982:android:6b2ebc512138781c",
+        "android_client_info": {
+          "package_name": "com.example.sikshavavestha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474740360982-235rm25b60m4ta5efi2eebc1m9pdveb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sikshavavestha",
+            "certificate_hash": "08c611e8056061ad24dd14f4133f9a0223622e19"
+          }
+        },
+        {
+          "client_id": "474740360982-i4lhoom2p8a8602r7o4tlp8cg8qf9dje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpm0RaU6RLGwbPIiY-ciwXKjsoLtZV84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474740360982-i4lhoom2p8a8602r7o4tlp8cg8qf9dje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
